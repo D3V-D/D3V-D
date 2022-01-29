@@ -6,7 +6,6 @@
   <body>
     <span>
     I'm a high school student who is learning whatever interests him! Currently working on webpages.
-      <br>
      <img src='https://github-readme-stats.vercel.app/api?username=D3V-D&show_icons=true&theme=radical'>
     </span>
 
