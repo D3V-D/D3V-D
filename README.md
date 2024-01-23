@@ -5,7 +5,7 @@
   <head></head>
   <body>
     <span>
-    I'm a high school student who is learning about and working on random projects!<hr>
+    I'm a high school student who is learning about and working on interesting projects!<hr>
      <img src='https://github-readme-stats.vercel.app/api?username=D3V-D&show_icons=true&theme=radical'>
     </span>
 
