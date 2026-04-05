@@ -3,7 +3,7 @@
   <body>
     <span>
     I'm a ever-learning student looking to work on exciting projects!<hr>
-     <img src='https://github-readme-stats.vercel.app/api?username=D3V-D&show_icons=true&theme=radical'>
+[![Deven's GitHub stats](https://github-readme-stats.zcy.dev/api?username=D3V-D)](https://github.com/anuraghazra/github-readme-stats)
     </span>
 
     
